@@ -1,4 +1,4 @@
-# 🧠 Emotion Detection Chat API – Deep Dive Documentation
+#  Emotion Detection Chat API – Deep Dive Documentation
 
 This project is a Flask-based RESTful API that performs **emotion detection** on user input using a fine-tuned transformer model. It classifies the emotional tone of a message and responds with **empathetic, human-like replies**, along with **resource links** for mental health support. It’s designed for ethical AI-powered support chat experiences.
 
@@ -16,7 +16,7 @@ In today’s digital age, users often seek emotional support through chat interf
 
 ---
 
-## 🧠 Core Architecture
+##  Core Architecture
 
 ### 🔹 1. Emotion Classification (Transformer Model)
 
